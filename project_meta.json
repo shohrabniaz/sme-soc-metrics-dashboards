@@ -1,10 +1,17 @@
 {
-  "seq": 14,
   "title": "SME-Appropriate Security Metrics and SOC Dashboards Aligned to Essential Eight",
-  "slug": "sme-appropriate-security-metrics-and-soc-dashboards-ali",
+  "old_slug": "sme-appropriate-security-metrics-and-soc-dashboards-ali",
+  "slug": "sme-soc-metrics-dashboards",
   "folder": "Sme_Appropriate_Security_Metrics_And_Soc_Dashboards",
-  "kind": "detect",
-  "body_words": 248,
+  "kind": "compliance",
+  "body_words": 318,
+  "source": "SCI700",
   "project_id": "Project 6",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
